@@ -1,4 +1,4 @@
-# Plant-Leaf-Disease-Recognition
+# Plant-Leaf-Disease-Recognition/n
 This project is focused on building a machine learning model to recognize plant leaf diseases from images. The system can classify leaves into three categories:
 1.Healthy
 2.Powdery Mildew
@@ -31,7 +31,7 @@ The Convolutional Neural Network consists of:
 
 ##Steps to Run the Project:
 1.Clone the repository:
-git clone https://github.com/your-username/plant-leaf-disease-recognition.git
+git clone
 2.Navigate to the project directory:
 cd plant-leaf-disease-recognition
 3.Install the required dependencies:
@@ -41,6 +41,14 @@ python predict.py --image_path /path/to/image.jpg
 
 #ResultsTraining Accuracy: Achieved high accuracy on the training dataset.
 ->Validation Accuracy: Consistently high performance during validation.
-->The model can classify images into the correct category with significant accuracy, making it a useful tool for early disease detection in plants.
+->The model can classify images into the correct category with significant accuracy, making it a useful![Screenshot 2024-11-17 223322](https://github.com/user-attachments/assets/1c4629e6-b4f4-4a6d-b076-66d8012d65e2)
+ tool for early disease detection in plants.
 
-"C:\Users\Ajay\Pictures\Screenshots\Screenshot 2024-11-17 223322.png"
+
+
+![Screenshot 2024-11-28 195529](https://github.com/user-attachments/assets/ab38f4b4-e830-40f5-8110-ea2a5386e34e)
+
+
+
+
+![Screenshot 2024-11-28 195621](https://github.com/user-attachments/assets/c879a721-9608-4d52-b90c-cf79f4976648)
