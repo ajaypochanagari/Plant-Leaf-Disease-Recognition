@@ -33,20 +33,17 @@ The Convolutional Neural Network consists of:
 - Loss Function: Categorical Crossentropy
 - Batch Size: 32
 - Epochs: 20
+---
 
-#Steps to Run the Project:
-1.Clone the repository:
-git clone
-2.Navigate to the project directory:
-cd plant-leaf-disease-recognition
-3.Install the required dependencies:
-pip install -r requirements.txt
-4.Test the model using sample images:
-python predict.py --image_path /path/to/image.jpg
-
-#ResultsTraining Accuracy: Achieved high accuracy on the training dataset.
-->Validation Accuracy: Consistently high performance during validation.
-->The model can classify images into the correct category with significant accuracy, making it a useful![Screenshot 2024-11-17 223322](https://github.com/user-attachments/assets/1c4629e6-b4f4-4a6d-b076-66d8012d65e2)
+***Steps to Run the Project:***
+- 1.Clone the repository: git clone
+- 2.Navigate to the project directory: cd plant-leaf-disease-recognition
+- 3.Install the required dependencies: pip install -r requirements.txt
+- 4.Test the model using sample images: python predict.py --image_path /path/to/image.jpg
+---
+***ResultsTraining Accuracy: Achieved high accuracy on the training dataset.***
+- ->Validation Accuracy: Consistently high performance during validation.
+- ->The model can classify images into the correct category with significant accuracy, making it a useful![Screenshot 2024-11-17 223322](https://github.com/user-attachments/assets/1c4629e6-b4f4-4a6d-b076-66d8012d65e2)
  tool for early disease detection in plants.
 
 
