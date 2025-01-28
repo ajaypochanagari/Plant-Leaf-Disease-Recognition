@@ -5,7 +5,9 @@ This project is focused on building a machine learning model to recognize plant 
 - 1.Healthy
 - 2.Powdery Mildew
 - 3.Rust Disease
+---
 The model leverages Convolutional Neural Networks (CNNs) to perform image classification and achieve accurate predictions.
+---
 #Dataset
 The dataset contains images of plant leaves divided into the following sets:
 - 1.Training Set: Images used to train the model.
