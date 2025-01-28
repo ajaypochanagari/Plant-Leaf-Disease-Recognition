@@ -1,7 +1,8 @@
-# Plant-Leaf-Disease-Recognition/
-*This project is focused on building a machine learning model to recognize plant leaf diseases from images. The system can classify leaves into three categories:
+#Plant-Leaf-Disease-Recognition
 ---
--1.Healthy
+* This project is focused on building a machine learning model to recognize plant leaf diseases from images. The system can classify leaves into three categories:*
+---
+- Item 1.Healthy
 -2.Powdery Mildew
 -3.Rust Disease
 The model leverages Convolutional Neural Networks (CNNs) to perform image classification and achieve accurate predictions.
